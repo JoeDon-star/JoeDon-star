@@ -17,27 +17,27 @@ Here are some ideas to get you started:
 
 Data Analyst | Python Enthusiast | Machine Learning Beginner
 Welcome to my GitHub! I work on data analysis, predictive modeling, and simple web apps using Streamlit.
-# 🔧 Tools & Skills
--Python (Pandas, NumPy, Scikit-learn)
--SQL
--Excel
--Power BI
--Machine Learning Basics
--Streamlit
-# 📌 Highlighted Project
+### 🔧 Tools & Skills
+- Python (Pandas, NumPy, Scikit-learn)
+- SQL
+- Excel
+- Power BI
+- Machine Learning Basics
+- Streamlit
+### 📌 Highlighted Project
 Telecom Customer Churn Predictive System
 A Streamlit web app that predicts whether a telecom customer is likely to churn.
 Built with: Python, Random Forest, Streamlit, Power BI
-# 🚀 What I'm Learning
--Advanced ML
--SQL for analytics
--Model deployment
-# 🤝 Open to Opportunities
+### 🚀 What I'm Learning
+- Advanced ML
+- SQL for analytics
+- Model deployment
+### 🤝 Open to Opportunities
 I am job-ready and open to:
--Data Analyst roles
--ML/AI entry-level roles
--Internships
--Remote/hybrid jobs
-# 📫 Contact Me
+- Data Analyst roles
+- ML/AI entry-level roles
+- Internships
+- Remote/hybrid jobs
+### 📫 Contact Me
 Email: nwadikejoseph01@gmail.com
 LinkedIn: 
