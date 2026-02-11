@@ -24,12 +24,6 @@ I enjoy solving problems with data and building simple, useful applications like
 - Power BI
 - Machine Learning Basics
 - Streamlit
-### 📌 Highlighted Project
-Telecom Customer Churn Predictive System
-A Streamlit web app that predicts whether a telecom customer is likely to churn.
-Built with: Python, Random Forest, Streamlit, Power BI
-![Uploading Screenshot 2025-06-01 123622.png…]()
-
 ### 🚀 What I'm Learning
 - Advanced ML
 - SQL for analytics
