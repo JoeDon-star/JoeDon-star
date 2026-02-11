@@ -1,4 +1,4 @@
-<img width="1909" height="880" alt="Screenshot 2025-05-20 083931" src="https://github.com/user-attachments/assets/0cccfaa5-d462-48f3-bbb2-5ffc6f5e3903" />## Hi there 👋
+# Hi there 👋
 
 <!--
 **JoeDon-star/JoeDon-star** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
