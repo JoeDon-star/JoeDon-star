@@ -36,4 +36,3 @@ I am job-ready and open to:
 - Remote/hybrid jobs
 ### 📫 Contact Me
 Email: nwadikejoseph01@gmail.com
-LinkedIn: 
