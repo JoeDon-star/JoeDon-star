@@ -35,4 +35,5 @@ I am job-ready and open to:
 - Internships
 - Remote/hybrid jobs
 ### 📫 Contact Me
-Email: nwadikejoseph01@gmail.com
+- Email: nwadikejoseph01@gmail.com
+- Linkedin: www.linkedin.com/in/nwadike-joseph-DA
